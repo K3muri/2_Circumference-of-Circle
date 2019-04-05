@@ -1,0 +1,14 @@
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\circumference of circle\bin\Debug\circumference of circle.exe.config
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\circumference of circle\bin\Debug\circumference of circle.exe
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\circumference of circle\bin\Debug\circumference of circle.pdb
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\circumference of circle\obj\Debug\circumference of circle.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\circumference of circle\obj\Debug\circumference of circle.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\circumference of circle\obj\Debug\circumference of circle.exe
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\circumference of circle\obj\Debug\circumference of circle.pdb
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\bin\Debug\circumference of circle.exe.config
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\bin\Debug\circumference of circle.exe
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\bin\Debug\circumference of circle.pdb
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\obj\Debug\circumference of circle.csprojAssemblyReference.cache
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\obj\Debug\circumference of circle.csproj.CoreCompileInputs.cache
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\obj\Debug\circumference of circle.exe
+C:\Users\KEMURI\Desktop\Visual Studio 2017\projects\Exercise 1A\circumference of circle\circumference of circle\obj\Debug\circumference of circle.pdb
